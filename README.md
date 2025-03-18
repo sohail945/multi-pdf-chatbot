@@ -2,7 +2,7 @@
 
 AI-powered chatbot to query multiple PDFs using FAISS and embeddings.
 
-![Multi-PDF Chatbot](RAG Architecture.png)
+![Multi-PDF Chatbot](RAG_Architecture.png)
 
 ## Features
 - Upload multiple PDF documents
